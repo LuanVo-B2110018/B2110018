@@ -1,4 +1,4 @@
-Name: Vo Minh Luan
-ID: B2110018
-Major: Information System
-Course: 2021-2025
+Name: Vo Minh Luan \n
+ID: B2110018 \n
+Major: Information System \n
+Course: 2021-2025 
